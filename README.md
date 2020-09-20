@@ -13,7 +13,7 @@ A omf theme inspired by robbyrussell (Oh-My-Zsh default theme).
 
 #### Install From Source
 ```
-mkdirmkdir ~/.local/share/omf/themes/sdev;git clone https://github.com/Gourob-Dev/SDEV ~/.local/share/omf/themes/sdev;omf theme sdev;
+mkdir ~/.local/share/omf/themes/sdev;git clone https://github.com/Gourob-Dev/SDEV ~/.local/share/omf/themes/sdev;omf theme sdev;
 ```
 
 #### License
