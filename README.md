@@ -12,7 +12,9 @@ A omf theme inspired by robbyrussell (Oh-My-Zsh default theme).
 - If the last command was failed, the indicator would be red, otherwise it's greenish yellow
 
 #### Install From Source
-```mkdir ~/.local/share/omf/themes/sdev;git clone https://github.com/Gourob-Dev/SDEV ~/.local/share/omf/themes/sdev;omf theme sdev;```
+```
+mkdirmkdir ~/.local/share/omf/themes/sdev;git clone https://github.com/Gourob-Dev/SDEV ~/.local/share/omf/themes/sdev;omf theme sdev;
+```
 
 #### License
 MIT License
