@@ -1,3 +1,6 @@
+#########################
+#  START OF SDEV THEME  #
+#########################
 
 # You can override some default options in your config.fish:
 #   set -g theme_display_git_untracked no
@@ -52,3 +55,7 @@ function fish_right_prompt
   date "+%H:%M:%S"
   set_color normal
 end
+
+#######################
+#  END OF SDEV THEME  #
+#######################
