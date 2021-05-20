@@ -1,9 +1,10 @@
 ## SDEV
 
-![For OMF](https://img.shields.io/badge/Theme%20For-Oh--My--Fish-yellow) ![For The Fish Shell](https://img.shields.io/badge/Shell-Fish-blue)
+![Available On Fish Shell](https://img.shields.io/badge/Avilable%20On-Fish-blue?style=for-the-badge&logo=appveyor)
 
 ___
-![sdev](https://i.ibb.co/7vgmxRb/IMG-20200908-182838.jpg)
+
+![ SDEV Theme In Action ](https://i.ibb.co/7vgmxRb/IMG-20200908-182838.jpg)
 
 A fish theme inspired by robbyrussell (Oh-My-Zsh default theme).
 
