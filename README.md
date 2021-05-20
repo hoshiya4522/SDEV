@@ -5,15 +5,15 @@
 ___
 ![sdev](https://i.ibb.co/7vgmxRb/IMG-20200908-182838.jpg)
 
-A omf theme inspired by robbyrussell (Oh-My-Zsh default theme).
+A fish theme inspired by robbyrussell (Oh-My-Zsh default theme).
 
 #### Characteristics
 - Displays git information in the command prompt when available
-- If the last command was failed, the indicator would be red, otherwise it's greenish yellow
+- If the last command was failed, the indicator would be red, otherwise it's greenish yellow (lime)
 
-#### Install From Source
+#### Install From Source (For Fish)
 ```
-mkdir ~/.local/share/omf/themes/sdev;git clone https://github.com/hoshiya4522/SDEV ~/.local/share/omf/themes/sdev;omf theme sdev;
+curl https://raw.githubusercontent.com/hoshiya4522/SDEV/master/install_for_fish.sh | sh
 ```
 
 #### License
